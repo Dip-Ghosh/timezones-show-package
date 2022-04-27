@@ -1,11 +1,11 @@
 {
-    "name": "pcb/timezones",
+    "name": "dip/timezones",
     "description": "Sample laravel package to timezones",
     "type": "lirary",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Pcb\\Timezones\\": "src/"
+            "Dip\\Timezones\\": "src/"
         }
     },
     "authors": [
@@ -17,7 +17,7 @@
     "require": {},
     "autoload": {
       "psr-4": {
-        "PCB\\TimeZones\\": "src/"
+        "DIP\\TimeZones\\": "src/"
       }
     }
 }
